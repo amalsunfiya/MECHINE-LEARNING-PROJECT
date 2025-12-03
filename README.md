@@ -1,2 +1,2 @@
-# MECHINE-LEARNING-PROJECT
-#Heart disease prediction 
+# HEART DISEASE PREDICTION
+#Machine learning project #Heart disease prediction 
